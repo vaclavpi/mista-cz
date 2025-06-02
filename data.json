@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "name": "Brandýs nad Labem–Stará Boleslav",
+      "description": "Historické město na soutoku Labe.",
+      "places": [
+        {
+          "name": "Bazilika sv. Václava",
+          "description": "Místo zavraždění sv. Václava, významná historická památka."
+        },
+        {
+          "name": "Zámek Brandýs",
+          "description": "Renesanční zámek navštěvovaný Habsburky."
+        }
+      ]
+    },
+    {
+      "name": "Praha",
+      "description": "Hlavní město České republiky.",
+      "places": [
+        {
+          "name": "Karlův most",
+          "description": "Historický most přes Vltavu."
+        }
+      ]
+    }
+  ]
+}
