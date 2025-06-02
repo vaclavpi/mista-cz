@@ -13,7 +13,7 @@ import {
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import * as FileSystem from 'expo-file-system';
 
-const REMOTE_JSON_URL = 'https://vaclavpi.github.io/mista-cz/data.json';
+const REMOTE_JSON_URL = 'https://raw.githubusercontent.com/vaclavpi/mista-cz/refs/heads/main/data.json';
 const STORAGE_KEY = 'cityData';
 
 export default function App() {
